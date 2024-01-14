@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ihalagedara
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning Electrical and Elecronic Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Networking, AI & ML
+- 🌱 I’m an Electrical and Elecronic Engineering Graduate
+- 💞️ I’m looking to collaborate on AI & ML projects
+- 📫 How to reach me ihalagedara.shamil@gmail.com
 
 <!---
 Ihalagedara/Ihalagedara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
